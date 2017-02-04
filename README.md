@@ -29,9 +29,15 @@ Best Practices in Data Visualization : https://www.youtube.com/watch?v=CW4uhy8xZ
 Milesone data visualization : http://www.datavis.ca/milestones/
 
 # people
-http://casualdata.com/stacey/
+M. Yavuz : http://casualdata.com/stacey/
 
-http://www.thefunctionalart.com/
+A. Cairo : http://www.thefunctionalart.com/
+
+Tufte : https://www.edwardtufte.com/tufte/
+
+Andy Kirk : http://www.visualisingdata.com/about/
+
+D. McCandless : http://www.informationisbeautiful.net/
 
 
 # sites
@@ -42,3 +48,7 @@ http://www.visualisingdata.com/
 http://keshif.me/demo/VisTools
 
 http://www.dear-data.com/theproject
+
+http://www.datavizcatalogue.com/
+
+
