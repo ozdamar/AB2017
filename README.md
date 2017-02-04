@@ -27,6 +27,13 @@ Best Practices in Data Visualization : https://www.youtube.com/watch?v=CW4uhy8xZ
 # history
 Milesone data visualization : http://www.datavis.ca/milestones/
 
+# ders konulari
+farkı sekilde gorsellestirme : http://flowingdata.com/2017/01/24/one-dataset-visualized-25-ways/
+
+dersteki tuy ornegi :) : http://emotions.periscopic.com/inauguration/
+
+data art ornegi : https://thegraphisdead.com/
+
 # people
 M. Yavuz : http://casualdata.com/stacey/
 
@@ -38,6 +45,7 @@ Andy Kirk : http://www.visualisingdata.com/about/
 
 D. McCandless : http://www.informationisbeautiful.net/
 
+H. Wickham : http://hadley.nz/
 
 # sites
 http://www.visual-literacy.org/periodic_table/periodic_table.html
@@ -49,6 +57,12 @@ http://keshif.me/demo/VisTools
 http://www.dear-data.com/theproject
 
 http://www.datavizcatalogue.com/
+
+https://eagereyes.org/
+
+http://www.datavis.ca/gallery/index.php
+
+http://visualoop.com/
 
 # 3-4. dersler
 
@@ -104,6 +118,7 @@ https://github.com/rstudio/addinexamples
 # Journal
 
 The R Journal : http://journal.r-project.org/
+
 Journal of Statistical Software : http://www.jstatsoft.org/
 
 
