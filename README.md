@@ -1,4 +1,4 @@
-# AB2017 105- R ileGörselleştirme Teknikleri Linkler 
+# AB2017 105- R ile Görselleştirme Teknikleri - Linkler  : 
 
 http://ab.org.tr/ab17/kursdir/105.html
 
