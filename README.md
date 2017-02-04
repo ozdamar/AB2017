@@ -30,6 +30,11 @@ Milesone data visualization : http://www.datavis.ca/milestones/
 
 # people
 http://casualdata.com/stacey/
+http://www.thefunctionalart.com/
+
 
 # sites
 http://www.visual-literacy.org/periodic_table/periodic_table.html
+http://www.visualisingdata.com/
+http://keshif.me/demo/VisTools
+http://www.dear-data.com/theproject
