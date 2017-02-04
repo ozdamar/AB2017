@@ -1,4 +1,6 @@
-# AB2017 105- R ileGörselleştirme Linkler
+# AB2017 105- R ileGörselleştirme Teknikleri Linkler 
+
+http://ab.org.tr/ab17/kursdir/105.html
 
 # 1-2. dersler
 
