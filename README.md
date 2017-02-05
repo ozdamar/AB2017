@@ -123,4 +123,20 @@ The R Journal : http://journal.r-project.org/
 
 Journal of Statistical Software : http://www.jstatsoft.org/
 
+# 5 - 6. dersler 
+
+# choosing graphs
+
+http://www.datavizcatalogue.com/
+
+http://uark.libguides.com/c.php?g=79179&p=510213
+
+http://labs.juiceanalytics.com/chartchooser/index.html
+
+https://eazybi.com/blog/data_visualization_and_chart_types/?utm_source=facebook&utm_medium=social&utm_campaign=Blog-2016-03-01-Promo
+
+http://complexdiagrams.com/properties
+
+
+
 
