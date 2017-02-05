@@ -137,6 +137,9 @@ https://eazybi.com/blog/data_visualization_and_chart_types/?utm_source=facebook&
 
 http://complexdiagrams.com/properties
 
+http://textvis.lnu.se/
+
+
 
 
 
