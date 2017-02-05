@@ -9,6 +9,19 @@ RcmdrMisc::Dotplot()   #Rcmdr GUI
 ```
 #### Dot Plot = Wilkinson Dot Plot
 #### Barcode Plot
+#### Pie Chart
+#### Fan Plot
+#### Box Plot
+#### Violin Plot
+#### Candlestick Chart
+#### Beeswarm Plot
+#### Pirate Plot
+#### Histogram
+#### Line Chart
+#### Parallel Coordinates
+#### Scatterplot
+
+
 
 
 
