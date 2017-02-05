@@ -1,4 +1,4 @@
-Dot chart = Cleveland Dot Plot
+#### Dot chart = Cleveland Dot Plot
 
 > graphics::dotchart()
 > Hmisc::dotchart2()
@@ -6,6 +6,9 @@ Dot chart = Cleveland Dot Plot
 > ggiraphExtra::ggCLE()	#	Draw a cleveland dot plot
 > ggiraphExtra::ggDot()
 > RcmdrMisc::Dotplot() # Rcmdr GUI
+
+#### Dot Plot = Wilkinson Dot Plot
+#### Barcode Plot
 
 
 
