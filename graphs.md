@@ -77,12 +77,12 @@ scatterplot3d::scatterplot3d()
 #### Correlogram
 ```
 corrplot::corrplot()
-plotrix::color2D.matplo()
+plotrix::color2D.matplot()
 lattice::levelplot()
 ```
 #### Hinton Plot
 ```
-plotrix::color2D.matplo()
+plotrix::color2D.matplot()
 ```
 #### Battleship Plot
 ```
