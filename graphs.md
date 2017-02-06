@@ -74,7 +74,31 @@ lattice::parallel()
 graphics::plot()
 scatterplot3d::scatterplot3d()
 ```
-#### 
+#### Correlogram
+```
+corrplot::corrplot()
+plotrix::color2D.matplo()
+lattice::levelplot()
+```
+#### Hinton Plot
+```
+plotrix::color2D.matplo()
+```
+#### Battleship Plot
+```
+plotrix::btattleship.plot()
+```
+#### Waterfall Chart
+```
+waterfall::waterfallplot()
+waterfall::waterfallchart()
+waterfalls::waterfall()
+```
+#### Waffle Chart
+```
+waffle::waffle()
+```
+
 
 
 
