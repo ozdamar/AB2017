@@ -86,7 +86,7 @@ plotrix::color2D.matplo()
 ```
 #### Battleship Plot
 ```
-plotrix::btattleship.plot()
+plotrix::battleship.plot()
 ```
 #### Waterfall Chart
 ```
