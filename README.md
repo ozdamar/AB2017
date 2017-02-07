@@ -111,6 +111,8 @@ http://r-exercises.com/
 
 http://stats.stackexchange.com/
 
+https://en.wikibooks.org/wiki/R_Programming/Graphics
+
 # add ins
 
 http://www.r-bloggers.com/list-of-useful-rstudio-addins-made-by-users-a-github-repo/
