@@ -1,3 +1,9 @@
+#### Bar Chart
+```
+graphics::barchart()
+
+```
+
 #### Dot chart = Cleveland Dot Plot
 ```
 graphics::dotchart()
