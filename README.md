@@ -68,7 +68,7 @@ http://visualoop.com/
 
 # 3-4. dersler
 
-# paketleri nereden bulacagiz
+# packages
 
 http://www.rdocumentation.org/
 
@@ -101,7 +101,7 @@ http://stat.ethz.ch/education/semesters
 
 http://manuals.bioinformatics.ucr.edu/home/programming-in-r#TOC-R-Basics
 
-# egitim icin 
+# education 
 
 http://www.r-bloggers.com/how-to-learn-r-2/
 
